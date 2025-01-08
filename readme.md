@@ -17,3 +17,4 @@ A simple calculator for converting EV charging prices into an equivalent dollars
 
 Emlaw Media and Technology was founded by Brandon Emlaw for his personal development projects in 2022. Initially focused on a website used for weather presentation at a college television station, it now focuses on developing a small suite of iOS applications.
 
+With any questions or concerns, reach out to contact@emlaw.dev.
